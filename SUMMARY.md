@@ -4,7 +4,7 @@
 * [序](README.md)
 * [作者群](作者群.md)
 * [105-2](105-2/READ.md)
-   * [選修](105-2/elective/README.md)
+    * [選修](105-2/elective/README.md)
         * [資網](105-2/elective/資網.md)
         * [CS](105-2/elective/cs.md)
         * [EDA](105-2/elective/eda.md)

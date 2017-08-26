@@ -3,7 +3,7 @@
 * [台大電機課程地圖105-2](簡介.md)
 * [序](README.md)
 * [作者群](作者群.md)
-* [105-2](105-2/READ.md)
+* [105-2](105-2/README.md)
     * [選修](105-2/elective/README.md)
         * [資網](105-2/elective/資網.md)
         * [CS](105-2/elective/cs.md)

@@ -11,7 +11,6 @@
         
         * [ICS](105-2/elective/ics.md)
         * [電力](105-2/elective/電力.md)
-        
         * [奈電](105-2/elective/奈電.md)
         * [光電](105-2/elective/光電.md)
         * [其他選修](105-2/elective/其他選修.md)

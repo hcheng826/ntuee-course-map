@@ -8,11 +8,10 @@
         * [資網](105-2/elective/資網.md)
         * [CS](105-2/elective/cs.md)
         * [EDA](105-2/elective/eda.md)
-        
         * [ICS](105-2/elective/ics.md)
         * [電力](105-2/elective/電力.md)
-        * [奈電](105-2/elective/奈電.md)
-        * [光電](105-2/elective/光電.md)
+        * [光電](105-2/elective/光電.md)
+        * [奈電](105-2/elective/奈電.md)
         * [其他選修](105-2/elective/其他選修.md)
         * [選修（數學系）](105-2/elective/選修（數學系）.md)
     * [十選二](105-1/十選二.md)

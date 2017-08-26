@@ -14,7 +14,7 @@
         * [光電](105-2/elective/光電.md)
         * [其他選修](105-2/elective/其他選修.md)
         * [選修（數學系）](105-2/elective/選修（數學系）.md)
-     * [十選二](105-1/十選二.md)
+    * [十選二](105-1/十選二.md)
 * [105-1](105-1/README.md)
     * [選修](105-1/elective/README.md)
         * [CS](105-1/elective/cs.md)

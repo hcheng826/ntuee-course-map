@@ -8,7 +8,8 @@
         * [資網](105-2/elective/資網.md)
         * [CS](105-2/elective/cs.md)
         * [EDA](105-2/elective/eda.md)
-        * [ICS](105-2/elective/ics.md)
+        
+        * [ICS](105-2/elective/ics.md)
         * [電力](105-2/elective/電力.md)
         * [奈電](105-2/elective/奈電.md)
         * [光電](105-2/elective/光電.md)

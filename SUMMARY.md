@@ -21,7 +21,6 @@
         * [EDA](105-1/elective/eda.md)
         * [通訊](105-1/elective/通訊.md)
         * [ICS](105-1/elective/ics.md)
-        * [電力](105-1/elective/電力.md)
         * [奈電](105-1/elective/奈電.md)
         * [生醫](105-1/elective/生醫.md)
         * [光電](105-1/elective/光電.md)

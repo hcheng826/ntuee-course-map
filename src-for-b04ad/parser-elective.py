@@ -9,7 +9,7 @@ import pandas as pd
 
 # In[130]:
 
-data = pd.read_csv("./dat/elective.csv",sep=',', header=None)
+data = pd.read_csv("../dat/elective.csv",sep=',', header=None)
 
 
 # In[131]:
@@ -19,8 +19,6 @@ data = data.fillna(0)
 
 
 # In[132]:
-
-data
 
 
 # In[133]:
@@ -38,14 +36,14 @@ content3 = data.get(8)
 
 # In[134]:
 
-f = open('./result/elective.md', 'w')
+f = open('../result/elective.md', 'w')
 
 
 # In[135]:
 
 for i in range(len(data)):
     f.write("> " + course_name[i] + "\n\n")
-    f.write("* 開課教授：" + prof[i] + "\n")
+    f.write("* 開課教授：" + str(prof[i]) + "\n")
     if recom[i] != 0:
         f.write("* 推薦同時修習的課程：" + str(recom[i]) + "\n")
     if pre_study[i] != 0:

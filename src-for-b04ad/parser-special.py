@@ -9,7 +9,7 @@ import pandas as pd
 
 # In[4]:
 
-data = pd.read_csv("./dat/1.csv",sep=',', header=None) #專題
+data = pd.read_csv("../dat/1.csv",sep=',', header=None) #專題
 
 
 # In[5]:
@@ -32,13 +32,13 @@ content1 = data.get(2)
 
 # In[8]:
 
-f = open('./result/1.md', 'w')
+f = open('../result/1.md', 'w')
 
 
 # In[9]:
 
 for i in range(len(data)):
-    f.write("> " + prof[i] + "\n\n")
+    f.write("> " + str(prof[i]) + "\n\n")
     f.write("* 相關領域：" + str(domain[i]) + "\n")
     f.write("* 專題小卦：\n")
     if content1[i] != 0:

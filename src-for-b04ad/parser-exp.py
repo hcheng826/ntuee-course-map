@@ -9,7 +9,7 @@ import pandas as pd
 
 # In[2]:
 
-data = pd.read_csv("./dat/exp.csv",sep=',', header=None) #10選2
+data = pd.read_csv("../dat/exp.csv",sep=',', header=None) #10選2
 
 
 # In[3]:
@@ -35,7 +35,7 @@ content2 = data.get(5)
 
 # In[6]:
 
-f = open('./result/exp.md', 'w')
+f = open('../result/exp.md', 'w')
 
 
 # In[9]:
